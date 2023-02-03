@@ -1,6 +1,5 @@
 import { prisma } from '../server/db/client'
 import { useEffect } from 'react'
-import Link from 'next/link'
 
 export default function Home({posts}){
 
