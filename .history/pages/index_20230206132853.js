@@ -8,7 +8,7 @@ export default function Home({posts}){
   
     
   return (
-    <div>
+    <div style={{alignItems:'center'}}>
 
       <div style={{display:'flex', justifyContent:'center', color:'pink'}}>
          <h1>YouHoo</h1>

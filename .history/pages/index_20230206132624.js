@@ -8,14 +8,14 @@ export default function Home({posts}){
   
     
   return (
-    <div>
+    <div >
 
-      <div style={{display:'flex', justifyContent:'center', color:'pink'}}>
+      <div>
          <h1>YouHoo</h1>
       </div>
      
 
-      <div style={{display:'flex',flexDirection:'column', marginLeft:30}}>
+      <div style={{display:'flex', flexDirection:'column', marginLeft:30}}>
         <h1></h1>
       <h3>Tell me a sercet...</h3>
 

@@ -25,7 +25,7 @@ export default function Home({posts}) {
           
        </form>
         <Link href='/'>
-            <button style={{display:'flex', marginTop:50, backgroundColor:'pink', border:'transparent', height:30, alignItems:'center', borderRadius:10, padding:15}}>Go To Feed</button>
+            <button style={{display:'flex', marginTop:50, backgroundColor:'pinkk', border:'transparent', height:30, alignItems:'center', borderRadius:10, padding:15}}>Go To Feed</button>
         </Link>
         
   
