@@ -22,7 +22,7 @@ export default function Home({posts}){
       
       {posts.map((post) => (
         <div key={post.id}>
-          <div style={{ width:"80%", display:'flex', backgroundColor:'white', color:'black', marginBottom:30, marginRight:"20%", marginLeft:"10%", borderRadius:10, paddingLeft:20, flexDirection:"column"}}>
+          <div style={{ width:"80%", display:'flex', backgroundColor:'white', color:'black', marginBottom:30, marginRight:"20%", marginLeft:"10%", borderRadius:10, paddingLeft:20}}>
             <h2>{post.title}</h2>
           <p>{post.content}</p>
           </div>
